@@ -40,8 +40,8 @@
 
 ## Built With
 
-- **List of technologies used**
-- **Give a short description of what each is**
+- **Tensor Flow** - 
+- **Python** - 
 
 ## Contributing
 

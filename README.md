@@ -42,6 +42,10 @@
 
 - **Tensor Flow** - 
 - **Python** - 
+  - numpy
+  - sklearn
+  - pandas
+  - matplotlib
 
 ## Contributing
 
